@@ -80,3 +80,4 @@ insert into Interactions (hostid, channelid, command, response, status)
 VALUES ("1", "1", "notepad", "", "0");
 insert into Interactions (hostid, channelid, command, response, status)
 VALUES ("1", "1", "ls", "", "0");
+123
